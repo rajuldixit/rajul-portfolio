@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Rajul Dixit – Portfolio
+
+Welcome to my personal portfolio! This project showcases my skills as a **Full Stack Developer** with 7+ years of experience in frontend and web development.
+
+Live Demo: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)  
+GitHub Repository: [https://github.com/rajuldixit/rajul-portfolio](https://github.com/rajuldixit/rajul-portfolio)
+
+---
+
+## About Me
+
+I am a **Full Stack Developer** and **Cloud Computing student** based in Dublin, Ireland. I specialize in creating high-quality, scalable, and responsive web applications using modern technologies like **React.js, Next.js, Node.js, and Web3**.  
+
+- Passionate about building interactive, user-friendly digital experiences  
+- Experienced in **agile environments**, collaborating with cross-functional teams  
+- Skilled in **CMS integration, cloud platforms, and front-end optimization**
+
+---
+
+## Technologies Used
+
+**Front-End:** React.js, Next.js, Redux, RTK Query, Tailwind CSS, Material UI, Storybook  
+**Back-End:** Node.js, Express.js, MongoDB, GraphQL, REST APIs  
+**Cloud & CMS:** AWS, Contentstack, Cloudinary  
+**Testing & DevOps:** Jest, Cypress, CI/CD, Micro-Frontend Architecture  
+**Collaboration:** Git, Jira, Agile/Scrum
+
+---
+
+## Projects
+
+### 1. E-commerce Platform (Client: Express, USA)
+- Developed reusable React components integrated with **Contentstack CMS** and **Cloudinary**  
+- Optimized UI/UX for responsive design and faster load times  
+- Collaborated with cross-functional teams to enhance digital asset management  
+
+### 2. Digital Banking (Client: RBS, UK)
+- Delivered critical front-end solutions using **React.js** and **Micro-Frontend architecture**  
+- Developed and optimized email templates for customer journeys  
+- Ensured accessibility and seamless UI/UX  
+
+### 3. Other Projects
+- Personal portfolio website (this project!) built with **Next.js, Tailwind CSS, Framer Motion**  
+- Contract projects for Spiritwave integrating **GraphQL APIs** and scalable front-end solutions  
+
+*(Check the Projects section on the live site for more details)*
+
+---
 
 ## Getting Started
 
-First, run the development server:
+Clone the repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/rajuldixit/rajul-portfolio.git
+cd rajul-portfolio
