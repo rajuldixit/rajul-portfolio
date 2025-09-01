@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This project showcases my skills as a **Full Stack Developer** with 7+ years of experience in frontend and web development.
 
-Live Demo: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)  
+Live Demo: (https://rajul-portfolio-one.vercel.app)
 GitHub Repository: [https://github.com/rajuldixit/rajul-portfolio](https://github.com/rajuldixit/rajul-portfolio)
 
 ---
