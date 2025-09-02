@@ -30,29 +30,24 @@ I specialize in creating high-quality, scalable, and responsive web applications
 ## 📂 Projects
 
 ### 1️⃣ E-commerce Platform (Client: Express, USA)  
-![E-commerce Screenshot](./screenshots/ecommerce.png)  
 - Developed reusable React components integrated with **Contentstack CMS** and **Cloudinary**  
 - Optimized UI/UX for responsive design and faster load times  
 - Collaborated with cross-functional teams to enhance digital asset management  
 
 **Tech:** React · Next.js · Contentstack · Cloudinary  
-🔗 **Live Project:** [View Project](https://rajul-portfolio-one.vercel.app)
 
 ---
 
 ### 2️⃣ Digital Banking (Client: RBS, UK)  
-![Banking Screenshot](./screenshots/banking.png)  
 - Delivered critical front-end solutions using **React.js** and **Micro-Frontend architecture**  
 - Developed and optimized email templates for customer journeys  
 - Ensured accessibility and seamless UI/UX  
 
-**Tech:** React · Redux · GraphQL  
-🔗 **Live Project:** *(Internal project – not publicly accessible)*  
+**Tech:** React · Redux · GraphQL   
 
 ---
 
 ### 3️⃣ Portfolio Website (This Project)  
-![Portfolio Screenshot](./screenshots/portfolio.png)  
 - Built with **Next.js, Tailwind CSS, Framer Motion**  
 - Responsive design with animations and smooth scrolling  
 - Showcases professional experience, skills, and projects  
